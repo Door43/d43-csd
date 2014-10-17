@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csd:home|Door43 (csd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csd|d43-csd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csd/archive/master.zip|d43-csd.zip]]
+
+**Recent Changes**
+{{changes>ns = csd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csd|Ethnologue data]]
+
